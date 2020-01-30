@@ -1,1 +1,3 @@
-# movie_seat_selector
+# Movie Seat Selector
+
+Pick your movie and pick your seats!
